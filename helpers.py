@@ -1,3 +1,6 @@
+#!/usr/bin/env python
+
+
 # Using discrete math to solve turning
 #      0            N
 #    3   1   -->  W   E

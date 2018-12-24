@@ -1,7 +1,16 @@
-import helpers
+#!/usr/bin/env python
+"""main.py: Runs the main function to compute routes ."""
+__author__ = "Aaron Goldsith"
+__copyright__ = "Copyright 2018, Goldsmith. Aaron"
+__license__ = "GPL"
+__version__ = "1.0.1"
+__maintainer__ = "Aaron"
+__email__ = "aargoldsmith@gmail.com"
+__status__ = "Development"
 # Aaron Goldsmith 
-# Start –  12:30pm
-# Finish – 3:30pm
+
+import helpers
+
 
 # 1.  Domain-specific language (how to contextualize the route)
 
