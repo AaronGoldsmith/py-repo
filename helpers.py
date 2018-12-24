@@ -1,5 +1,8 @@
 #!/usr/bin/env python
-
+"""helpers.py: imported through main.py for helper methods"""
+__author__ = "Aaron Goldsith"
+__email__ = "aargoldsmith@gmail.com"
+__status__ = "Development"
 
 # Using discrete math to solve turning
 #      0            N
