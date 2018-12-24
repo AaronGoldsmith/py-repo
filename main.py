@@ -1,13 +1,8 @@
 #!/usr/bin/env python
 """main.py: Runs the main function to compute routes ."""
 __author__ = "Aaron Goldsith"
-__copyright__ = "Copyright 2018, Goldsmith. Aaron"
-__license__ = "GPL"
-__version__ = "1.0.1"
-__maintainer__ = "Aaron"
 __email__ = "aargoldsmith@gmail.com"
 __status__ = "Development"
-# Aaron Goldsmith 
 
 import helpers
 
@@ -20,8 +15,6 @@ import helpers
 # All other possible steps must be one of: a numerical only value
 # A character followed by a numeral, representing direction + distance
 # A single character , representing Left or Right
-
-# 2. DB design
 
 #   data should be stored in the smallest possible format
 #   an integer will take up less space in memory than a string, (each character represents an 8bit ascii code)  
